@@ -4,16 +4,21 @@
 
 > This repository contains all the practices, labs, exercises, and projects I have completed as part of the Harvard CS50 Introduction to Computer Science course. The course covers a wide range of topics, including C programming language, algorithms, data structures, and more.
 
+> The purpose of this repository is to document my progress and showcase my knowledge in computer science. By uploading my code to GitHub, I can also practice version control and collaborate with others.
+
+> Currently, all the exercises and projects in this repository are done in C, but I plan to include Python projects as well later in the course.
+
+> Feel free to explore the code and provide feedback if you have any. Thank you for visiting my GitHub repository!
+
 ## Author
 
 👤 **Ignacio Ariel López**
 
 * Github: [@LopezIgnacio2201](https://github.com/LopezIgnacio2201)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/ignacio-ariel-lopez\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/ignacio-ariel-lopez\/)
+* LinkedIn: [@Ignacio Ariel Lopez](https://www.linkedin.com/in/ignacio-ariel-lopez\/)
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if you found this project interesting or useful in someway!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
