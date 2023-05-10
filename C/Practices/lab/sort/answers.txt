@@ -1,0 +1,17 @@
+sort1 uses: Selection Sort
+
+How do you know?: First test, with sorted number takes about 0,1s, while random and reversed
+takes about 3 to 4 seconds, the only program between the three that takes so much
+and knowing how selection sort is most likely this is the algorithm its using.
+
+sort2 uses: Bubble Sort
+
+How do you know?: It takes much less time on a short and mostly ordered list than merge sort,
+which is one of the advantages of bubble sort over merge sort. 
+
+sort3 uses: Merge Sort
+
+How do you know?: It takes roughly the same amount of time on the large lists
+whether sorted random or reversed, which makes sense since the alogirithm always 
+takes the same amount of steps, dividing and then merging, without caring about if they
+started being ordered or not.
