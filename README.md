@@ -117,3 +117,36 @@ I'd like to give credit and thanks to the following sources that helped make thi
 
 <h2 align="center">Author</h2>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/105466036/233513753-5a5f04fb-4310-4a77-b282-1a0cbe8b0256.jpg" alt="Author photo" width=250 height=250>  
+</div>
+
+<h2 align="center">Contact</h2>
+
+<div align="center">
+
+  <p align="center">
+  <a href="https://www.linkedin.com/in/ignacio-ariel-lopez/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  
+  <a href="https://github.com/LopezIgnacio2201">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge">
+  </a>
+  
+  <a href="mailto:lopezignacio2201@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+</p>
+
+</div>
+
+<br>
+
+<!-- START FOOTER -->
+
+<p align="center">
+  <sub>If you found this project interesting or useful in any way, please consider giving it a ⭐️ on <a href="[https://github.com/LopezIgnacio2201/cs50-archive]">GitHub ❤︎</a>!</sub>
+</p>
+
+<!-- END FOOTER -->
